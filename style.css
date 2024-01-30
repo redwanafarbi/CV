@@ -1,0 +1,26 @@
+
+.body-content{
+    width: 90%;
+    margin: auto;
+    border: 2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    /* background-color: lightgray; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    width: 180px;
+    height: auto;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+.table-content{
+    height: auto;
+    text-align: center;
+    justify-content: space-between;
+}
+
